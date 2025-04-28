@@ -51,6 +51,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ## People 
 - [Whitepages EE](https://whitepages.ee)
+- [Yellowpages EE](https://www.yellowpages.ee/en/)
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ## Public procurement
