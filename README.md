@@ -19,6 +19,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Statistics Estonia](https://www.stat.ee/en)
 - [Estonian Open Government Data Portal](https://imo.ut.ee/en/infrastructure/estonian-open-government-data/estonian-open-government-data-portal/)
 - [Riigi Teataja | State Gazette](https://www.riigiteataja.ee/en/)
+- [VAU | Virtual Research Room](https://www.ra.ee/vau/index.php/en). National Archives offers collections of digitised historical records, maps, court files, and photography
 
 ### Stock
 - [Nasdaq Baltic Stock Exchanges](https://nasdaqbaltic.com)
@@ -31,6 +32,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Legal Entities
 - [E-Business Register](https://ariregister.rik.ee/eng)
 - [Teatmilk](https://www.teatmik.ee/ru)
+- [Tax and Customs Board’s website](https://www.emta.ee/en)
+- [Lursoft](https://www.lursoft.lv/en/data-bases-of-companies). Data for Latvia, Lithuania, and Estonia. Paid, from  EUR 9.90
 
 ## Maps
 - [Estonian Cadastral Data](https://geoportaal.maaamet.ee/eng/spatial-data/cadastral-data-p310.html)
